@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with *MERN STACK Devevlopment*
 
-- 📫 How to reach me *sriprakhar777@gmail.com*
+- 📫 How to reach me *shashankpandey0804@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
