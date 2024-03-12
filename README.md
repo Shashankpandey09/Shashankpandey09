@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Collaborative Editor*
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Next.js*
 
 - 🤝 I’m looking for help with *MERN STACK Devevlopment*
 
