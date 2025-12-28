@@ -12,7 +12,7 @@
 ### 💻 About Me
 I build high-performance, real-time web applications with a focus on clean code and scalable architecture.
 
-- 🛠️ **Current Project:** Scaling **[Flowboard](https://github.com/Shashankpandey09/n8n)**, a workflow automation engine.
+- 🛠️ **Current Project:** Scaling **[Flowboard](https://github.com/Shashankpandey09/n8n)**, an open-source workflow automation engine.
 - 🚀 **Core Interests:** Event-driven systems with **Kafka**, high-speed caching with **Redis**, and **Web3**.
 - 🤝 **Open to:** Collaborating on **MERN** stack and **Next.js** projects.
 
@@ -46,19 +46,19 @@ I build high-performance, real-time web applications with a focus on clean code 
 ### 📊 Engineering Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankpandey09&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=tokyonight&hide_border=true" alt="Shashankpandey09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=radical&no-bg=true" alt="Trophies" />
 </p>
 
 ---
