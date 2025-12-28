@@ -1,70 +1,66 @@
-# Hi, I'm Shashank Pandey 👋
-### Full-Stack Developer 
+<h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
+<h3 align="center">Full-Stack Developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shashankpandey09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shashankpandey09" />
-  <a href="mailto:shashankpandey0804@gmail.com"><img src="https://img.shields.io/badge/Email-shashankpandey0804%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shashank-pandey-709b15227/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-</p>
-
----
-
-### 💻 About Me
-I am a **Full-Stack Developer** building real-time, scalable applications. I focus on creating seamless user experiences powered by robust, event-driven backends.
-
-- 🛠️ **Current Focus:** Building **[Flowboard](https://github.com/Shashankpandey09/n8n)**, an open-source workflow automation tool.
-- 🚀 **Core Interests:** Distributed systems with **Kafka**, high-speed caching with **Redis**, and the **Solana** ecosystem.
-- 🤝 **Collaboration:** Open to **MERN** stack opportunities and high-performance web systems.
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,framer,nodejs,express,hono,aws,kafka,redis,docker,postgres,mongodb,prisma,ts,cpp&theme=dark" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Shashankpandey09&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankpandey09" /> 
+  <a href="https://www.linkedin.com/in/shashank-pandey-709b15227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-> **Frontend:** React, Next.js, Framer Motion, TanStack Query  
-> **Backend:** Node.js, Hono.js, Express, WebSockets  
-> **Infrastructure:** AWS, Kafka, Redis, Docker  
-> **Databases:** PostgreSQL, MongoDB, Prisma
+- 🔭 I’m currently working on **[Flowboard (n8n Clone)](https://github.com/Shashankpandey09/n8n)**
+- 🌱 I’m currently learning **Solana & AWS Architecture**
+- 🤝 I’m looking to collaborate on **MERN Stack & Real-time Systems**
+- 📫 Reach me at **shashankpandey0804@gmail.com**
+
+---
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="websocket" width="40" height="40"/>
+</p>
+
+> **Additional Tech:** Hono.js | TanStack Query | Framer Motion | Prisma
 
 ---
 
 ### 🌟 Featured Projects
 
-#### [Flowboard (n8n Clone)](https://github.com/Shashankpandey09/n8n)
+#### [Flowboard (n8n)](https://github.com/Shashankpandey09/n8n)
 *An open-source workflow automation engine.*
-- **Stack:** Node.js, TypeScript, PostgreSQL, Prisma, AWS, Kafka.
-- **System Design:** Integrated an event-driven task processing system using Kafka to manage complex automation nodes.
+- **Stack:** Hono.js, AWS, Kafka, PostgreSQL, Prisma.
+- **System:** Engineered an event-driven worker system for asynchronous node execution.
 
 #### [Exness-V](https://github.com/Shashankpandey09/exness-v-)
-*High-fidelity trading interface simulation.*
+*High-fidelity trading interface with real-time updates.*
 - **Stack:** React, TanStack Query, Framer Motion, Express.js, Redis, WebSockets.
-- **Performance:** Optimized real-time price feeds with Redis caching and zero-lag UI updates using Framer Motion.
+- **Core:** Implemented low-latency price streaming and optimized state management.
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Engineering Stats & Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=radical&hide_border=true" alt="Shashankpandey09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=github_dark" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=radical&no-bg=true" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=darkhub&no-bg=true" alt="Trophies" />
+  </a>
 </p>
-
----
-
-### 📬 Let's Connect
-- **LinkedIn:** [Shashank Pandey](https://www.linkedin.com/in/shashank-pandey-709b15227/)
-- **Email:** [shashankpandey0804@gmail.com](mailto:shashankpandey0804@gmail.com)
