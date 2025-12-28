@@ -1,20 +1,20 @@
 # Hi, I'm Shashank Pandey 👋
-### Full-Stack Developer 
+### Full-Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shashankpandey09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shashankpandey09" />
   <a href="mailto:shashankpandey0804@gmail.com"><img src="https://img.shields.io/badge/Email-shashankpandey0804%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/shashank-pandey"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shashank-pandey-709b15227/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer** building complex, real-time web applications. I enjoy architecting systems that handle high-concurrency and modern workflow automation.
+I am a **Full-Stack Developer** from India. I specialize in building end-to-end applications with a focus on **minimalistic design** and high-performance backend systems.
 
-- 🛠️ **Building:** **Flowboard**, an open-source workflow automation engine inspired by n8n.
-- 🚀 **Exploring:** High-throughput systems with **Kafka** and **Redis**, plus the **Solana** ecosystem.
-- 🤝 **Collaboration:** Interested in open-source **MERN** development and Edge-ready architectures.
+- 🛠️ **Current Project:** Scaling **Flowboard**, an open-source workflow automation engine.
+- 🚀 **Learning:** Deep-diving into the **Solana** ecosystem and advanced **AWS** architectures.
+- 🤝 **Collaboration:** Open to working on **MERN stack** projects and real-time systems.
 
 ---
 
@@ -32,30 +32,37 @@ I am a **Full-Stack Developer** building complex, real-time web applications. I 
 ### 🌟 Featured Projects
 
 #### [Flowboard (n8n Clone)](https://github.com/Shashankpandey09/n8n)
-*An open-source workflow automation tool built for scalability.*
-- **Core:** Architected an event-driven task processing system.
+*Open-source workflow automation engine designed for performance.*
 - **Stack:** Node.js, TypeScript, PostgreSQL, Prisma, AWS.
+- **Core:** Built a custom worker system to handle asynchronous task processing.
 
 #### [Exness-V](https://github.com/Shashankpandey09/exness-v-)
-*High-fidelity trading interface with real-time backend updates.*
-- **Core:** Real-time data streaming and complex state management for high-frequency updates.
+*High-fidelity trading interface with real-time price feeds.*
 - **Stack:** React, TanStack Query, Framer Motion, Express.js, Redis, WebSockets.
+- **Core:** Optimized state management for zero-lag data updates during high-frequency trading simulations.
 
 ---
 
 ### 📊 Engineering Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=material-palenight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=material-palenight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=material-palenight&hide_border=true" alt="Shashankpandey09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=dark&hide_border=true" alt="Shashankpandey09" />
 </p>
 
 ---
 
-### 📬 Let's Build Something Together
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=darkhub&no-bg=true" alt="Trophies" />
+</p>
+
+---
+
+### 📬 Let's Connect
 - **Email:** [shashankpandey0804@gmail.com](mailto:shashankpandey0804@gmail.com)
-- **LinkedIn:** [linkedin.com/in/shashank-pandey](https://linkedin.com/in/shashank-pandey)
+- **LinkedIn:** [shashank-pandey-709b15227](https://www.linkedin.com/in/shashank-pandey-709b15227/)
