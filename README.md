@@ -1,5 +1,5 @@
 # Hi, I'm Shashank Pandey 👋
-### Full-Stack Developer
+### Full-Stack Developer 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shashankpandey09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shashankpandey09" />
@@ -10,15 +10,15 @@
 ---
 
 ### 💻 About Me
-I build end-to-end web applications, focusing on clean frontends and scalable backends. I enjoy working with real-time data and modern cloud infrastructure.
+I am a **Full-Stack Developer** building complex, real-time web applications. I enjoy architecting systems that handle high-concurrency and modern workflow automation.
 
-- 🛠️ **Building:** **Flowboard**, an open-source workflow automation engine.
-- 🚀 **Learning:** Exploring **AWS** cloud patterns and the **Solana** ecosystem.
-- 🤝 **Open to:** Collaborating on **MERN** stack projects and real-time apps.
+- 🛠️ **Building:** **Flowboard**, an open-source workflow automation engine inspired by n8n.
+- 🚀 **Exploring:** High-throughput systems with **Kafka** and **Redis**, plus the **Solana** ecosystem.
+- 🤝 **Collaboration:** Interested in open-source **MERN** development and Edge-ready architectures.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
@@ -31,33 +31,31 @@ I build end-to-end web applications, focusing on clean frontends and scalable ba
 
 ### 🌟 Featured Projects
 
-#### [Exness Ecosystem Simulation](https://github.com/Shashankpandey09/exness-clone)
-*Real-time trading interface and backend.*
-- **Stack:** React, TanStack Query, Framer Motion, Express.js, Redis, WebSockets.
-- **Features:** Real-time data streaming and high-performance UI state management.
+#### [Flowboard (n8n Clone)](https://github.com/Shashankpandey09/n8n)
+*An open-source workflow automation tool built for scalability.*
+- **Core:** Architected an event-driven task processing system.
+- **Stack:** Node.js, TypeScript, PostgreSQL, Prisma, AWS.
 
-#### [Flowboard](https://github.com/Shashankpandey09/flowboard)
-*Workflow automation tool.*
-- **Stack:** Hono.js, AWS, Kafka, PostgreSQL, Prisma.
-- **Features:** Event-driven worker system using Kafka for asynchronous task processing.
+#### [Exness-V](https://github.com/Shashankpandey09/exness-v-)
+*High-fidelity trading interface with real-time backend updates.*
+- **Core:** Real-time data streaming and complex state management for high-frequency updates.
+- **Stack:** React, TanStack Query, Framer Motion, Express.js, Redis, WebSockets.
 
 ---
 
 ### 📊 Engineering Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=graywhite" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=graywhite" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&theme=material-palenight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&theme=material-palenight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&theme=material-palenight&hide_border=true" alt="Shashankpandey09" />
 </p>
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashankpandey09&theme=flat&no-bg=true" alt="Trophies" />
-</p>
-
----
-
-### 📬 Let's Connect
+### 📬 Let's Build Something Together
 - **Email:** [shashankpandey0804@gmail.com](mailto:shashankpandey0804@gmail.com)
 - **LinkedIn:** [linkedin.com/in/shashank-pandey](https://linkedin.com/in/shashank-pandey)
