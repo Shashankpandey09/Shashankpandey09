@@ -4,11 +4,11 @@
 I enjoy building systems that are fast, observable, and designed to scale.
 
 ## Primary interests
-- Real-time systems & WebSockets
-- Event-driven architecture (Kafka)
-- Observability & monitoring
-- High-speed caching and performance (Redis)
-- Web3 fundamentals
+- Real-time systems and WebSockets
+- Event-driven architecture with Kafka
+- Observability, monitoring, and system reliability
+- High-performance caching using Redis
+- Web3 fundamentals and distributed systems
 
 ## Connect
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashankpandey09)
