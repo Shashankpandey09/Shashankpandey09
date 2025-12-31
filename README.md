@@ -1,29 +1,37 @@
 # Shashank Pandey
-**Full-Stack Developer — Real-time systems & scalable web applications**
+Full-Stack Developer — Real-time systems & scalable web applications
 
-[Email](mailto:shashankpandey0804@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/shashank-pandey-709b15227/) ·
-[GitHub](https://github.com/Shashankpandey09)
+📧 shashankpandey0804@gmail.com  
+💼 https://www.linkedin.com/in/shashank-pandey-709b15227/  
+💻 https://github.com/Shashankpandey09  
 
 ---
 
 ## About
 
-I design and build high-performance web applications with a strong focus on clean architecture, scalability, and reliable real-time behavior.
+I build high-performance web applications with a focus on clean architecture, scalability, and reliable real-time behavior.
 
-- **Current:** Scaling *Flowboard (n8n)* — event-driven worker orchestration with Kafka  
-- **Focus:** Real-time systems, Redis caching, event streaming, developer experience  
-- **Open to:** MERN / Next.js collaborations and remote roles  
+Currently working on **Flowboard (n8n)** — scaling an open-source workflow automation engine using event-driven systems.
+
+**Primary interests**
+- Real-time systems & WebSockets  
+- Event-driven architecture (Kafka)  
+- High-performance caching (Redis)  
+- Backend-heavy full-stack development  
+
+Open to MERN / Next.js collaborations and remote roles.
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-- React, Next.js, TanStack Query, Framer Motion
+- React, Next.js
+- TanStack Query, Framer Motion
 
 **Backend**
-- Node.js, Hono, Express, WebSockets
+- Node.js, Hono, Express
+- REST APIs, WebSockets
 
 **Infrastructure**
 - AWS, Kafka, Redis, Docker
@@ -33,67 +41,53 @@ I design and build high-performance web applications with a strong focus on clea
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Flowboard (n8n)
 Workflow automation engine  
-Repo: https://github.com/Shashankpandey09/n8n
+https://github.com/Shashankpandey09/n8n
 
-- Designed and implemented a Kafka-based worker system
+- Designed and implemented a Kafka-based worker orchestration system
 - Enabled scalable, fault-tolerant processing of complex workflow nodes
-- Emphasis on reliability and clean abstractions
+- Focused on reliability, observability, and clean abstractions
 
 ---
 
 ### Exness-V
 Real-time trading interface simulation  
-Repo: https://github.com/Shashankpandey09/exness-v-
+https://github.com/Shashankpandey09/exness-v-
 
 - Built near-real-time UI updates using WebSockets and Redis
 - Optimized state synchronization for high-frequency price feeds
-- Focused on performance and smooth UX under load
+- Emphasis on performance and smooth UX under load
 
 ---
 
-## Engineering Stats
+## Engineering Activity
 
-> Stable, minimal indicators — no fragile dashboards in the main view.
+- Consistent contributor on personal and open-source projects
+- Experience working with large codebases and review-driven workflows
+- Strong focus on system behavior under load rather than just UI features
 
-![Followers](https://img.shields.io/github/followers/Shashankpandey09?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/Shashankpandey09?label=Stars&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Shashankpandey09?style=flat-square)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Shashankpandey09?style=flat-square)
-
-<details>
-<summary>Optional visual stats</summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shashankpandey09&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankpandey09&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashankpandey09&layout=compact&hide_border=true" />
-
-</details>
+(GitHub activity and commit history available on profile.)
 
 ---
 
-## Experience & Achievements
+## Experience & Highlights
 
-- **Flowboard (Open Source):** Kafka-driven worker orchestration for scalable workflow execution
-- **Exness-V:** Low-latency real-time trading UI using Redis and WebSockets
-- **Internship — Zidio:** Resume builder using Form.js and HTML-to-PDF conversion
-- **PulsePing (Super 30):** Cron-based uptime monitoring with Prisma logging and email alerts
-- **Final Year Project:** Arduino-based temperature-controlled chamber with automated safety logic
+- **Open Source:** Flowboard — event-driven worker architecture using Kafka
+- **Internship:** Zidio — resume builder using Form.js and HTML-to-PDF
+- **PulsePing (Super 30):** Cron-based uptime monitoring with Prisma and alerts
+- **Final Year Project:** Arduino-based temperature-controlled chamber
 - **Leadership:** House Captain, Little Flower School (2019–2020)
 
 ---
 
 ## Contact
 
-- Email: shashankpandey0804@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/shashank-pandey-709b15227/  
-- GitHub: https://github.com/Shashankpandey09  
+Email: shashankpandey0804@gmail.com  
+LinkedIn: https://www.linkedin.com/in/shashank-pandey-709b15227/  
 
 ---
 
-*I enjoy building systems that are fast, observable, and designed to scale.*
+I enjoy building systems that are fast, observable, and designed to scale.
